@@ -1,3 +1,17 @@
-MetaRobots (beta)
+= MetaRobots
 
-This extension extends Mage_Catalog_Block_Category_View to set the value of meta tag robots to noindex,follow on the catalog view page 2 and further. 
+This extension extends Mage_Catalog_Block_Category_View to set the value of meta tag robots to "noindex,follow" on the catalog view page 2 and followup pages.
+
+== Compatibility
+Successfully tested on Community Edition 1.6.x
+Not tested on previous versions. But feel free to do so and inform me so this readme can be updated.
+
+== Installation
+* Download the source code and copy the files in the corresponding Magento folders; 
+* mind that you merge the directories… Do not replace the existing directories. :-)
+* no Magento existing file is modified. 
+
+== Copyright
+
+Copyright (c) 2012 Hans Kuijpers. See LICENSE for details.
+License: Open Software License ("OSL") v. 3.0
