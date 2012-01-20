@@ -1,0 +1,3 @@
+MetaRobots (beta)
+
+This extension extends Mage_Catalog_Block_Category_View to set the value of meta tag robots to noindex,follow on the catalog view page 2 and further. 
