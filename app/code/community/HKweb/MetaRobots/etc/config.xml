@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<config>
+	<modules>
+		<HKweb_MetaRobots>
+			<version>0.1.0</version>
+		</HKweb_MetaRobots>
+	</modules>
+    <global>
+		<blocks>
+			<catalog>
+				<rewrite>
+					<category_view>HKweb_MetaRobots_Block_Category_View</category_view>
+				</rewrite>
+			</catalog>
+		</blocks>
+	</global>
+</config>
